@@ -1,2 +1,2 @@
 # Flag PHP FrameworkC
-riada no contexto das aulas.
+Criada no contexto das aulas.
